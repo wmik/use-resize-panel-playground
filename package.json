@@ -1,10 +1,12 @@
 {
-  "name": "react",
+  "name": "use-resize-panel-playground",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "React playground for use-resize-panel hook",
   "keywords": [
+    "resize",
     "react",
-    "starter"
+    "panel",
+    "hook"
   ],
   "main": "src/index.js",
   "dependencies": {
