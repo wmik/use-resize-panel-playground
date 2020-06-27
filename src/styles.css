@@ -1,4 +1,16 @@
-.App {
+body {
   font-family: sans-serif;
-  text-align: center;
+}
+
+.resizable-drag-bar {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.resizable-drag-bar:hover {
+  opacity: 1;
+}
+
+.resizable-drag-bar:active {
+  opacity: 1;
 }
